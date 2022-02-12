@@ -19,7 +19,22 @@ SVM can be used for 2D and 3D planes.
 
 **Hyperplane** = margin maximising lhyperplane MMH
 
-### ADvantages: 
+### Advantages: 
 
 - maximises the margin between two classes in the feature space characterized by a ***kernel*** function
 - robust with respect to high input dimension 
+
+ *kernel is a mathematical function that transforms the data to the required form  
+ 
+ Kernel Methods in SVM : 
+ 
+ - Polynomial Kernel - used in image or signal processing
+ - Gaussian Kernel - no prior knowledge of the data
+ - Gaussian Radial Basis Function 
+ - Laplace Radial Basic Function
+ - Hyperbolic Tangent Kernel - used in NN/DL
+ - Sigmoid Kernel- proxy for NN
+ - Bessel Function of First Kind Kernel - removes cross terms in Maths
+ - Anova Radial Basis Kernel - analysis of variance 
+ - Linear Spline Kernel in 1D - sparse data, text identification, image detection
+
