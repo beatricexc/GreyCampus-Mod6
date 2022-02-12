@@ -9,7 +9,7 @@ SVM can be used for 2D and 3D planes.
 - identify the right hyper-plane
 - select the hyperplane which segregates the classes better 
 - the margins have to be as large as possible
-- the support vector are the most useful data points because they are the ones most likely to be incorrectly classified.
+- the support vectors are the most useful data points because they are the ones most likely to be incorrectly classified.
 
 #### Terminology : 
 
@@ -17,4 +17,9 @@ SVM can be used for 2D and 3D planes.
 
 **Margins** = the distance of the vectors from the hyperplane
 
-**Hyperplane** = margin maximising line/separator 
+**Hyperplane** = margin maximising lhyperplane MMH
+
+### ADvantages: 
+
+- maximises the margin between two classes in the feature space characterized by a ***kernel*** function
+- robust with respect to high input dimension 
