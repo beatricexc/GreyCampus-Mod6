@@ -30,8 +30,8 @@ SVM can be used for 2D and 3D planes.
  
  - Polynomial Kernel - used in image or signal processing
  - Gaussian Kernel - no prior knowledge of the data
- - Gaussian Radial Basis Function 
- - Laplace Radial Basic Function
+ - Gaussian Radial Basis Function - similar to Gaussian, this kernel computes the similarity or how close point X1 and X2 are to each other.
+ - Laplace Radial Basic Function - 
  - Hyperbolic Tangent Kernel - used in NN/DL
  - Sigmoid Kernel- proxy for NN
  - Bessel Function of First Kind Kernel - removes cross terms in Maths
