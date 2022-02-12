@@ -14,5 +14,7 @@ SVM can be used for 2D and 3D planes.
 #### Terminology : 
 
 **Support Vector Points** = the points closest to the hyperplane
+
 **Margins** = the distance of the vectors from the hyperplane
+
 **Hyperplane** = margin maximising line/separator 
