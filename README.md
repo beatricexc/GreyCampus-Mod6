@@ -17,11 +17,11 @@ SVM can be used for 2D and 3D planes.
 
 **Margins** = the distance of the vectors from the hyperplane
 
-**Hyperplane** = margin maximising lhyperplane MMH
+**Hyperplane** = margin maximizing hyperplane MMH
 
 ### Advantages: 
 
-- maximises the margin between two classes in the feature space characterized by a ***kernel*** function
+- maximizes the margin between two classes in the feature space characterized by a ***kernel*** function
 - robust with respect to high input dimension 
 
  *kernel is a mathematical function that transforms the data to the required form  
